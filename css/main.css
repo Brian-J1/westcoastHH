@@ -192,9 +192,7 @@ img {max-width:100%;}
 	border-radius: 20%;
     text-align: center;
 }
-{
-	background-color: #6218c2;
-}
+
 .j5 {
     color: #fff;
     background: -webkit-linear-gradient(110deg, #6218c2 60%, rgba(0, 0, 0, 0) 35%), -webkit-radial-gradient(farthest-corner at 0% 0%, #aaf146 70%, #ec41ca 90%);
@@ -405,4 +403,75 @@ img {max-width:100%;}
 }
 .HipFootI a:hover {
 	color: #0400ff;
+}
+.IconicIG{
+	color: #fff;
+    background: -webkit-linear-gradient(110deg, #cc2a4f 33%, rgba(0, 0, 0, 0) 33%), -webkit-linear-gradient(110deg, #011216 66%, #9f9ea3 66%);
+    background: -o-linear-gradient(110deg, #cc2a4f 33%, rgba(0, 0, 0, 0) 33%), -o-linear-gradient(110deg, #011216 66%, #9f9ea3 66%);
+    background: -moz-linear-gradient(110deg, #cc2a4f 33%, rgba(0, 0, 0, 0) 33%), -moz-linear-gradient(110deg, #011216 66%, #9f9ea3 66%);
+    background: linear-gradient(110deg, #cc2a4f 33%, rgba(0, 0, 0, 0) 33%), linear-gradient(110deg, #011216 66%, #9f9ea3 66%);
+}
+#InnercityJPG {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    flex: 1 1 auto; 
+	float:left;
+    padding: 10px;
+    margin: 10px;
+	width: 370px;
+	height: 350px;
+	border-radius: 10%;
+    text-align: center;
+}
+ol{
+	counter-increment: item;
+	margin-bottom: 5px;
+}
+li{
+	counter-increment: item;
+	margin-bottom: 5px;
+}
+.Iconic93{
+	color: #fff;
+    background: -webkit-linear-gradient(110deg, #25309c 33%, rgba(0, 0, 0, 0) 33%), -webkit-linear-gradient(110deg, #655132 66%, #f6fc19 66%);
+    background: -o-linear-gradient(110deg, #25309c 33%, rgba(0, 0, 0, 0) 33%), -o-linear-gradient(110deg, #655132 66%, #f6fc19 66%);
+    background: -moz-linear-gradient(110deg, #25309c 33%, rgba(0, 0, 0, 0) 33%), -moz-linear-gradient(110deg, #655132 66%, #f6fc19 66%);
+    background: linear-gradient(110deg, #25309c 33%, rgba(0, 0, 0, 0) 33%), linear-gradient(110deg, #655132 66%, #f6fc19 66%);
+}
+#InfinityJPG {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    flex: 1 1 auto; 
+	float:left;
+    padding: 10px;
+    margin: 10px;
+	width: 370px;
+	height: 350px;
+	border-radius: 10%;
+    text-align: center;
+}
+.IconicMel{
+	color: #fff;
+    background: -webkit-linear-gradient(110deg, #090408 33%, rgba(0, 0, 0, 0) 33%), -webkit-linear-gradient(110deg, #aa675c 66%, #f2e8e9 66%);
+    background: -o-linear-gradient(110deg, #090408 33%, rgba(0, 0, 0, 0) 33%), -o-linear-gradient(110deg, #aa675c 66%, #f2e8e9 66%);
+    background: -moz-linear-gradient(110deg, #090408 33%, rgba(0, 0, 0, 0) 33%), -moz-linear-gradient(110deg, #aa675c 66%, #f2e8e9 66%);
+    background: linear-gradient(110deg, #090408 33%, rgba(0, 0, 0, 0) 33%), linear-gradient(110deg, #aa675c 66%, #f2e8e9 66%);
+}
+#MelodicaJPG {
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    flex: 1 1 auto; 
+	float:left;
+    padding: 10px;
+    margin: 10px;
+	width: 370px;
+	height: 350px;
+	border-radius: 10%;
+    text-align: center;
 }
